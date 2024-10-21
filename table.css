@@ -1,0 +1,13 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.table, th,td{
+    border:  1px solid gray;
+    padding-right: 35px;
+    border-collapse: collapse;
+}
+th{
+    background-color: gray;
+    padding-bottom: 10px;
+}
